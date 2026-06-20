@@ -17,7 +17,7 @@ Features:
 - Pivot table analysis
 
 Live Demo:
-[Streamlit Link]
+https://student-marks-analytics-dashboard.streamlit.app/
 
 ---
 
@@ -29,7 +29,7 @@ Features:
 - Interactive filtering
 
 Live Demo:
-[Streamlit Link]
+https://movie-rating-analyzer.streamlit.app/
 
 ---
 
@@ -41,7 +41,7 @@ Features:
 - Category insights
 
 Live Demo:
-[Streamlit Link]
+https://jigar-sales-performance-dashboard.streamlit.app/
 
 ---
 
@@ -53,7 +53,7 @@ Features:
 - Interactive exploration
 
 Live Demo:
-[Streamlit Link]
+https://jigar-employee-salary-insights.streamlit.app/
 
 ---
 
@@ -64,7 +64,7 @@ Features:
 - Heatmap visualization
 
 Live Demo:
-[Streamlit Link]
+https://jigar-online-course-performance-tracker.streamlit.app/
 
 ---
 
@@ -75,7 +75,7 @@ Features:
 - Demographic insights
 
 Live Demo:
-[Streamlit Link]
+https://jigar-event-registration-dashboard.streamlit.app/
 
 ---
 
